@@ -4,6 +4,9 @@
 
 echo "Un fichier php va être inclu à la suite de ce texte ...<br><br>";
 
+include "texte.php";
+require "vars.php";
+
 // inclure fichier texte.php ci dessous
 
 
